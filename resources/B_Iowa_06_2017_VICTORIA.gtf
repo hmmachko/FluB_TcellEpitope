@@ -1,0 +1,38 @@
+##gtf-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1968240
+PB2	Genbank	transcript	1	2367	.	+	.	gene_id "PB2-B";transcript_id "PB2-B";
+PB2	Genbank	gene	10	2322	.	+	.	gene_id "PB2-B";
+PB2	Genbank	CDS	10	2322	.	+	0	gene_id "PB2-B";transcript_id "PB2-B";
+PA	Genbank	transcript	1	2276	.	+	.	gene_id "PA-B";transcript_id "PA-B";
+PA	Genbank	gene	16	2196	.	+	.	gene_id "PA-B";
+PA	Genbank	CDS	16	2196	.	+	0	gene_id "PA-B";transcript_id "PA-B";
+HA	Genbank	transcript	1	1850	.	+	.	gene_id "HA-B";transcript_id "HA-B";
+HA	Genbank	gene	20	1771	.	+	.	gene_id "HA-B";
+HA	Genbank	CDS	20	1771	.	+	0	gene_id "HA-B";transcript_id "HA-B";
+NP	Genbank	transcript	1	1815	.	+	.	gene_id "NP-B";transcript_id "NP-B";
+NP	Genbank	gene	47	1729	.	+	.	gene_id "NP-B";
+NP	Genbank	CDS	47	1729	.	+	0	gene_id "NP-B";transcript_id "NP-B";
+NA	Genbank	transcript	1	1528	.	+	.	gene_id "NA-B";transcript_id "NA-B";
+NA	Genbank	transcript	33	335	.	+	0	gene_id "NB-B";transcript_id "NB-B";
+NA	Genbank	gene	33	335	.	+	.	gene_id "NB-B";
+NA	Genbank	CDS	33	335	.	+	0	gene_id "NB-B";transcript_id "NB-B";
+NA	Genbank	gene	40	1440	.	+	.	gene_id "NA-B";
+NA	Genbank	CDS	40	1440	.	+	0	gene_id "NA";transcript_id "NA-B";
+MP	Genbank	transcript	1	1154	.	+	.	gene_id "M1-B";transcript_id "M1-B";
+MP	Genbank	transcript	1	1154	.	+	.	gene_id "M2-B";transcript_id "M2-B";
+MP	Genbank	gene	8	754	.	+	.	gene_id "M1-B";
+MP	Genbank	CDS	8	754	.	+	0	gene_id "M1";transcript_id "M1-B";
+MP	Genbank	gene	754	1083	.	+	.	gene_id "M2-B";
+MP	Genbank	CDS	754	1083	.	+	0	gene_id "M2-B";transcript_id "M2-B";
+NS	Genbank	transcript	1	1066	.	+	.	gene_id "NS1-B";transcript_id "NS1-B";
+NS	Genbank	transcript	1	1066	.	+	.	gene_id "NEP-B";transcript_id "NEP-B";
+NS	Genbank	gene	28	1054	.	+	.	gene_id "NEP-B";
+NS	Genbank	CDS	28	63	.	+	0	gene_id "NEP-B";transcript_id "NEP-B";
+NS	Genbank	CDS	719	1054	.	+	0	gene_id "NEP-B";transcript_id "NEP-B";
+NS	Genbank	gene	28	876	.	+	.	gene_id "NS1-B";
+NS	Genbank	CDS	28	876	.	+	0	gene_id "NS1-B";transcript_id "NS1-B";
+PB1	Genbank	transcript	1	2340	.	+	.	gene_id "PB1-B";transcript_id "PB1-B";
+PB1	Genbank	gene	8	2266	.	+	.	gene_id "PB1-B";
+PB1	Genbank	CDS	8	2266	.	+	0	gene_id "PB1-B";transcript_id "PB1-B";
